@@ -86,7 +86,7 @@ DATABASES = {
     },
     'default': {
         'ENGINE': 'sql_server.pyodbc',
-        'NAME': 'CertOfNeed',
+        'NAME': 'CertOfNeedApp',
         'HOST': 'thasql2\dev2016',
         'OPTIONS': {
             'driver': 'SQL Server Native Client 11.0',
